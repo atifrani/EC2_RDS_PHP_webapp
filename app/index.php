@@ -28,7 +28,7 @@ function getArticles(PDO $PDO){
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Ma propre image Docker !</title>
+    <title>Ma page web</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -42,19 +42,15 @@ function getArticles(PDO $PDO){
   <body>
 
     <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
-      <a class="navbar-brand" href="#">Ma propre image Docker</a>
+      <a class="navbar-brand" href="#">Ma page web</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-            <a class="nav-link" href="#">Accueil</a>
-          </li>
           <li class="nav-item active">
             <a class="nav-link" href="#">Articles <span class="sr-only">(current)</span></a>
           </li>
-          
         </ul>
       </div>
     </nav>
@@ -90,15 +86,9 @@ function getArticles(PDO $PDO){
 
     <footer class="page-footer font-small bg-dark mt-5">
         <div class="footer-copyright text-center py-3 text-white">© Copyright:
-            <a href="#"> MonAppDocker</a>
+            <a href="#"> MaPageWeb</a>
         </div>
     </footer>
 
   </body>
 </html>
-
-
-
-
-
-
