@@ -1,5 +1,5 @@
 <?php
-const DB_DSN = 'mysql:host=localhost;dbname=test';
+const DB_DSN = 'mysql:host=localhost;dbname=learning';
 const DB_USER = "test";
 const DB_PASS = "test";
 $options = array(
