@@ -10,7 +10,7 @@ Il est important d'appliquer les recommandations sécurité réseau vu en cours.
 ## 2. Installez les composant suivants sur la machine EC2:
  - Apache2
  - PHP
- - PHP-MSQL
+ - PHP-MYSQL
 
 ## 3. Clonez le code du projet:
  git clone https://github.com/atifrani/webapp.git
