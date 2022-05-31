@@ -8,7 +8,7 @@ Il est important d'appliquer les recommandations sécurité réseau vu en cours.
  - Authentification en utilisant une clé d'authentification.
 
 ## 2. Installez les composant suivants sur la machine EC2:
- - Apache2
+ - httpd/Apache2
  - PHP
  - PHP-MYSQL
 
