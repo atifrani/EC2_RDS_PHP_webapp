@@ -18,10 +18,6 @@ function getArticles(PDO $PDO){
 }
 ?>
 
-
-
-
-
 <!doctype html>
 <html lang="fr">
   <head>
