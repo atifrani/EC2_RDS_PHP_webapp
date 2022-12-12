@@ -9,8 +9,7 @@ Il est important d'appliquer les recommandations sécurité réseau vu en cours.
 
 ## 2. Installez les composant suivants sur la machine EC2:
  - httpd/Apache2
- - PHP
- - PHP-MYSQL
+ - PHP7 (follow this tutorial https://www.tutorialswebsite.com/how-to-install-php-on-aws-ec2-instance/)
 
 ## 3. Clonez le code du projet:
  git clone https://github.com/atifrani/webapp.git
