@@ -7,7 +7,7 @@ require 'db-config.php';
 
 
 function getArticles(PDO $PDO){
-    $sql = "SELECT * FROM articles";
+    $sql = "SELECT * FROM learning.articles";
     $result = $PDO->query($sql);
 
     $articles = $result->fetchAll(PDO::FETCH_ASSOC);
