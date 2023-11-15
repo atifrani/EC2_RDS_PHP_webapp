@@ -12,7 +12,7 @@ Il est important d'appliquer les recommandations sécurité réseau vu en cours.
  - PHP7 (follow this tutorial https://www.tutorialswebsite.com/how-to-install-php-on-aws-ec2-instance/)
 
 ## 3. Clonez le code du projet:
- git clone https://github.com/atifrani/webapp4.git
+ git clone https://github.com/atifrani/EC2_RDS_PHP_webapp.git
 
 ## 4. Créez une base de données RDS MySQL  (Utiliser l'offre gratuite de AWS):
 Il est important d'appliquer les recommandations sécurité réseau vu en cours.
